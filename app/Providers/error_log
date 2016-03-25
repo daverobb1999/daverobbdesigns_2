@@ -1,0 +1,2 @@
+[17-Mar-2016 18:05:00 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/daverobb/public_html/app/Providers/AuthServiceProvider.php on line 15
+[17-Mar-2016 18:05:11 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/daverobb/public_html/app/Providers/EventServiceProvider.php on line 15

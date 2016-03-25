@@ -1,0 +1,1 @@
+[17-Mar-2016 18:04:37 UTC] PHP Fatal error:  Class 'Illuminate\Database\Seeder' not found in /home/daverobb/public_html/database/seeds/DatabaseSeeder.php on line 6

@@ -1,0 +1,2 @@
+[17-Mar-2016 17:59:31 UTC] PHP Parse error:  syntax error, unexpected T_CLASS, expecting T_STRING or T_VARIABLE or '$' in /home/daverobb/public_html/bootstrap/app.php on line 30
+[17-Mar-2016 18:00:04 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/daverobb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 28

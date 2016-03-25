@@ -1,0 +1,1 @@
+[17-Mar-2016 18:09:28 UTC] PHP Fatal error:  Class 'Illuminate\Console\Command' not found in /home/daverobb/public_html/app/Console/Commands/Inspire.php on line 9

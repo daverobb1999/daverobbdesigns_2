@@ -1,0 +1,6 @@
+[17-Mar-2016 17:58:35 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/daverobb/public_html/config/compile.php on line 3
+[17-Mar-2016 17:59:00 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/daverobb/public_html/config/mail.php on line 3
+[17-Mar-2016 17:59:21 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/daverobb/public_html/config/cache.php on line 3
+[17-Mar-2016 17:59:42 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/daverobb/public_html/config/session.php on line 3
+[17-Mar-2016 17:59:53 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/daverobb/public_html/config/database.php on line 3
+[17-Mar-2016 18:00:14 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/daverobb/public_html/config/broadcasting.php on line 3

@@ -1,0 +1,3 @@
+[17-Mar-2016 18:05:41 UTC] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home/daverobb/public_html/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[17-Mar-2016 18:06:07 UTC] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home/daverobb/public_html/database/migrations/2016_02_18_222717_create_project_table.php on line 7
+[17-Mar-2016 18:06:54 UTC] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home/daverobb/public_html/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7

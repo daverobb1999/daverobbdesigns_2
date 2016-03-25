@@ -1,0 +1,3 @@
+[17-Mar-2016 17:17:15 UTC] PHP Parse error:  syntax error, unexpected T_CLASS, expecting T_STRING or T_VARIABLE or '$' in /home/daverobb/public_html/public/index.php on line 50
+[17-Mar-2016 17:17:43 UTC] PHP Parse error:  syntax error, unexpected T_CLASS, expecting T_STRING or T_VARIABLE or '$' in /home/daverobb/public_html/public/index.php on line 50
+[17-Mar-2016 17:54:04 UTC] PHP Parse error:  syntax error, unexpected T_CLASS, expecting T_STRING or T_VARIABLE or '$' in /home/daverobb/public_html/public/index.php on line 50
