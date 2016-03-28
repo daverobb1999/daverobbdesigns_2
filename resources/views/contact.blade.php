@@ -49,8 +49,8 @@
 			 </div>
 
 			 <div class="form-group">
-			            {{ Form::reset('Clear', array('class' => 'btn btn-default')) }}
-			            {{ Form::submit('Send', array('class' => 'btn btn-default')) }}
+			            {{ Form::reset('Clear', array('class' => 'btn btn-warning')) }}
+			            {{ Form::submit('Send', array('class' => 'btn btn-success')) }}
 			</div>
 			            {{ Form:: close() }}
 

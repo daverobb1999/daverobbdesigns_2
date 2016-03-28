@@ -11,6 +11,24 @@
     </header>
 
     <div id="main" class="row">
+        <blockquote>
+
+            <p>
+            Hi, my name is David Robb, I'm a web developer based in North Carolina, USA.
+             I have 5 years of professional programming experience
+             (after earning my BSc in Software Technology from Edinburgh Napier University).
+             I specialize in creating responsive websites with user-friendly back-ends.
+            </p>
+
+            <p>
+             This is a portfolio of some of the projects that I have worked on over the past
+             few years. Most of them use Wordpress or Drupal with varying levels of PHP, JavaScript,
+             CSS and MySQL customization depending on the project.
+            </p>
+
+
+            </blockquote>
+        <hr>
         <!-- /.row -->
         @foreach($project as $item)
             <div class="row">
@@ -34,7 +52,7 @@
 
 
                     <!-- Pagination -->
-            <div class="row text-center">
+        {{--    <div class="row text-center">
                 <div class="col-lg-12">
                     <ul class="pagination">
                         <li>
@@ -63,7 +81,7 @@
             </div>
             <!-- /.row -->
 
-            <hr>
+            <hr>--}}
 
     </div>
 
